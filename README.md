@@ -1,3 +1,2 @@
 # Pro1
-Inside branch 2
-Readme
+Merge of branch 1 and 2
